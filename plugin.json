@@ -1,7 +1,9 @@
 {
-  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
   "name": "godot-prompter",
-  "description": "Agentic skills framework for Godot 4.x — 59 domain-specific skills for GDScript and C#",
   "version": "1.16.0",
-  "contextFileName": "GEMINI.md"
+  "description": "Agentic skills framework for Godot 4.x — domain-specific skills for GDScript and C#",
+  "license": "MIT",
+  "repository": "https://github.com/bmoh95/GodotPrompter",
+  "keywords": ["godot", "gdscript", "csharp", "gamedev", "skills"]
 }
